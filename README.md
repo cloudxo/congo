@@ -1,2 +1,2 @@
 # congo
-Blogging Plateform for Humans
+Blogging plateform for authors
